@@ -1,5 +1,5 @@
 # ChainCoder
-### Scripts to finetune mistral using together.ai
+### Finetune the mistral model on langchain code and docs to help with building langchain apps.
 
 Assistant to help you with coding LangChain 
 
