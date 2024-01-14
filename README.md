@@ -3,7 +3,7 @@
 
 Assistant to help you with coding LangChain 
 
-Used Together.ai for finetune.
+Used Together.ai for finetuning Mistral-7B model.
 
 Langchain code and docs for finetuning
 
