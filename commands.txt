@@ -1,0 +1,3 @@
+together models info mistralai/Mistral-7B-v0.1  
+together finetune list
+together finetune retrieve
