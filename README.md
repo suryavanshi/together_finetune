@@ -7,4 +7,4 @@ Used Together.ai for finetune.
 
 Langchain code and docs for finetuning
 
-WandDB for monitoring - https://wandb.ai/surya/together/reports/loss-24-01-13-20-11-08---Vmlldzo2NTEwNjc1
+WandDB for monitoring - https://api.wandb.ai/links/surya/f5fa7o1p
